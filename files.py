@@ -62,7 +62,6 @@ f = open("C:/Gayaz/test/one.txt", "a")
 #f.write("this is test file\n")
 f.close()
 
-
 f = open("C:/Gayaz/test/one.txt", "r")
 print(f.read())
 f.close()
