@@ -1,4 +1,9 @@
-Name	Age	Experience
-Krish	30	5
-Sid	25	9
-Mary	41	6
+Name,Age,Experience,Salary
+Krish,30,5,10000
+Sid,25,9,50000
+Mary,41,16,75000
+Mahesh,,16,90000
+Sam,32,,70000
+Miss,29,12,
+ ,,,
+pan,,,
